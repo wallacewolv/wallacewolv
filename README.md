@@ -13,4 +13,4 @@
 
 
 
-<p>&nbsp;<img align="center" color="#444" src="https://github-readme-stats.vercel.app/api?username=wallacewolv&show_icons=true&locale=en" alt="wallacewolv" /></p>
+<p>&nbsp;<img align="center" color="#444" src="https://github-readme-stats.vercel.app/api?username=wallacewolv&show_icons=true&locale=en&theme=dark" alt="wallacewolv" /></p>
