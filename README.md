@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou Wallace Wesley</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Wallace Wesley</h1>
 <h3 align="center">Desenvolvedor Front-end e Mobile</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wallacewolv&label=Profile%20views&color=0e75b6&style=flat" alt="wallacewolv" /> </p>
