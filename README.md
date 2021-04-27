@@ -1,7 +1,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Wallace Wesley</h1>
-<h3 align="center">Desenvolvedor Front-end e Mobile</h3>
+<h3 align="left">Desenvolvedor Front-end e Mobile</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wallacewolv&label=Profile%20views&color=0e75b6&style=flat" alt="wallacewolv" /> </p>
+``` CSS
+const aboutMe = { 
+  name: 'Wallace Wesley',
+  age: '27',
+  education: 'Analysis and systems development at Unip',
+  job: 'Programmer || Mobile Developer || Web Developer',
+  company: '3R Industry Ltda',
+  skills: [
+    'Javascript',
+    'React JS',
+    'Node JS',
+    'Flutter'
+  ],
+  hobbys: [
+    'Games',
+    'Play guitar',
+    'Thinking games,
+  ]
+}
+
+```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -14,3 +34,4 @@
 <p align="center">
   &nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=wallacewolv&show_icons=true&locale=en&theme=dark" alt="wallacewolv" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wallacewolv&label=Profile%20views&color=0e75b6&style=flat" alt="wallacewolv" /> </p>
