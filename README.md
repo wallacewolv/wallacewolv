@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Wallace Wesley</h1>
-<h3 align="left">Desenvolvedor Front-end e Mobile</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Wallace Wesley</h1>
+<h3 align="left">Developer Front-end and Mobile</h3>
 
 ``` CSS
 const aboutMe = { 
