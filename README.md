@@ -54,7 +54,7 @@
 
 ## Experience
 
-<p><img src="https://mitekstuf.files.wordpress.com/2016/04/loading.gif" width="200px"></p>
+<p><img src="https://pa1.narvii.com/7544/017273540bb1e8a57bef5e1e86da6cf4d03c90e7r1-382-278_hq.gif" width="200px"></p>
 
 ## Skills
 
