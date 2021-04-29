@@ -49,7 +49,7 @@
 
 ## Education
 
-- 📖 **Analysis and systems development**\
+📖 **Analysis and systems development**\
 📆 2020 - 2021\
 📍 **UNIP Paulista** - São Paulo, Brazil
 
