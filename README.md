@@ -139,7 +139,7 @@
 - All with the use of **Typescript** for better typing of the code, focusing on software quality, responsive layouts and UI.
 - For documentation and design of the project I use **Figma** and the entire process of gathering requirements and features.
 - As for hosting data in Web development, the relational database **SQLServer** is used, while for mobile development, **Firebase**.
-- Desktop applications I use **Flutter** from version 2.0 or **C ++ (C #)**.
+- Desktop applications i use **Flutter** from version 2.0 or **C ++ (C #)**.
 
 <br>
 
