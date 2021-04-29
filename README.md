@@ -118,18 +118,7 @@
 <img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-
-
-<!--**Programming**
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
--->
-
 <br>
-
 
 ## SUMMARY OF MY SKILLS
 - With a focus on developing projects on the **React Js**, **Node Js**, **Flutter** and **React Native** stack,
@@ -151,7 +140,7 @@
 
 <br>
 
-- Copy my json and execute a run code to know about me(Javascript file format)
+- Copy my json and execute a run code to know about me ( Javascript file format )
  
 ``` CSS
 const aboutMe = { 
