@@ -54,7 +54,7 @@
 
 ## Experience
 
-👨‍💻 **Freelance developer**\
+🧑💻 **Freelance developer**\
 📆 2019 - 2021\
 📍 **My House** - São Paulo/SP, Brazil\
 <br>
