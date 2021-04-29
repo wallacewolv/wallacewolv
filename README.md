@@ -96,6 +96,7 @@
 - Control of measures and finishes
 - Command Mazak, Fanuc, Siemens
 
+<br>
 
 🧑‍🏭 **CNC Turning Machine**\
 📆 2011 - 2014\
