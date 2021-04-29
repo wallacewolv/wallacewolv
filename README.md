@@ -99,7 +99,7 @@ const aboutMe = {
   hobbys: [
     'Games',
     'Play guitar',
-    'Thinking games,
+    'Thinking games,'
   ]
 }
 
