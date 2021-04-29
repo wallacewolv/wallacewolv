@@ -16,10 +16,10 @@
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a target="_blank" href="https://www.linkedin.com/in/wallace-wesley-de-oliveira-91b1b612a/">
+  <a  href="https://www.linkedin.com/in/wallace-wesley-de-oliveira-91b1b612a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/wallace_wesley/">
+  <a href="https://www.instagram.com/wallace_wesley/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
