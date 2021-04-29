@@ -4,9 +4,9 @@
   Hi there 👋I am Wallace Wesley <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height="45px">
 </h1>
 
-<p align='center'>
+<h3 align='center'>
   A mobile and Front-end developer from São Paulo, Brazil.
-</p>
+</h3>
 
 
 
