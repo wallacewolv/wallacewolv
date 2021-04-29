@@ -78,8 +78,6 @@
 
 </details>
 
-<br>
-
 <details>
   <summary>📃 About Me</summary>
   
