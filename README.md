@@ -182,12 +182,14 @@ const aboutMe = {
 _**Move it you**_ - Web application _**(React JS)**_ using pomodoro technique and exercises.
 <br>
 <p align="left"><img src="./move_it_you.png" height="90px"/></p>
+<p>Link to <a href="https://moveityou.vercel.app/" target="_blank">https://moveityou.vercel.app/</a></p>
 
 <br>
 
 _**DtMoney**_ - Web application _**(Next JS)**_ to control finances.
 <br>
 <p align="left"><img src="./dt_money.png" height="90px"/></p>
+<p>Link to <a href="https://dtmoney-beryl.vercel.app/" target="_blank">https://dtmoney-beryl.vercel.app/</a></p>
 
 <br>
 </details>
