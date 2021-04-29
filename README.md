@@ -54,7 +54,7 @@
 
 ## Experience
 
-<p align="left"> @Loading </p>
+<p><img src="https://mitekstuf.files.wordpress.com/2016/04/loading.gif" width="200px"></p>
 
 ## Skills
 
