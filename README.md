@@ -54,6 +54,15 @@
 
 ## Experience
 
+🧑‍🏭 **freelance developer**\
+📆 2019 - 2021\
+📍 **freelance developer** - São Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
 🧑‍🏭 **CNC Programmer**\
 📆 2019 - 2021\
 📍 **3R Industry** - São Paulo/SP, Brazil
