@@ -151,7 +151,7 @@
 
 <br>
 
-- Copy my json and run a run code to know about me(Javascript file format)
+- Copy my json and execute a run code to know about me(Javascript file format)
  
 ``` CSS
 const aboutMe = { 
