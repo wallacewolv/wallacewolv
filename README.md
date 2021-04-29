@@ -1,7 +1,9 @@
 
 
 <h1 align='center'>
-  Hi there 👋I am Wallace Wesley <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height="45px">
+  <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height="45px">
+  Hi there 👋I am Wallace Wesley 
+  <img src="https://i2.wp.com/media2.giphy.com/media/6lsW1YMkojWrC/giphy.gif" height="45px">
 </h1>
 
 <h4 align='center'>
