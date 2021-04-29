@@ -84,6 +84,8 @@
 
 <details>
   <summary>📃 About Me</summary>
+  
+  <br>
 
 ``` CSS
 const aboutMe = { 
