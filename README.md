@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Wallace Wesley</h1>
-<h2 align="left">Developer Front-end and Mobile <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="100px"> </h2>
+<h2 align="left">Developer Front-end and Mobile </h2>
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="500px"> 
 
 ``` CSS
 const aboutMe = { 
