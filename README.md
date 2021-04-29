@@ -1,9 +1,8 @@
-
+<h1 align="center">Hi there 👋I am Wallace Wesley </h1><br>
 
 <p align='left'>
-  <h1>Hi there 👋I am Wallace Wesley </h1><br>
-  <h4>A mobile and Front-end developer from São Paulo, Brazil.</h4>
-  <img align='right' src="./dev.gif" height="450px">
+  <h4> </h4>
+  <img align='right' src="./dev.gif" height="370px">
 </p>
 
 <h4 align='center'>
