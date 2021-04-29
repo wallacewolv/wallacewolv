@@ -149,6 +149,8 @@
 <details>
   <summary>📃 About Me</summary>
   
+- Copy my json and run a run code to know about me(Javascript file format)
+  
   <br>
 
 ``` CSS
@@ -169,7 +171,9 @@ const aboutMe = {
     'Play guitar',
     'Thinking games,'
   ]
-}
+};
+
+console.log(aboutMe);
 
 ```
 </details>
