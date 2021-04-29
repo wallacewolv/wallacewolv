@@ -150,9 +150,7 @@
   <summary>📃 About Me</summary>
   
 - Copy my json and run a run code to know about me(Javascript file format)
-  
-  <br>
-
+ 
 ``` CSS
 const aboutMe = { 
   name: 'Wallace Wesley',
