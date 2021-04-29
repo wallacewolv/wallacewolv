@@ -109,12 +109,13 @@
 
 ## Skills
 
-<img align="right" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 
 
 <!--**Programming**
@@ -124,6 +125,20 @@
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 -->
+
+<br>
+
+
+## SUMMARY OF MY SKILLS
+- With a focus on developing projects on the **React Js**, **Node Js**, **Flutter** and **React Native** stack,
+- I use these tools for **API's**, make **CRUD's**, deal with componentization and communication between Frontend and Back-end through Context API and Hooks,
+- Using the **Next JS** framework, I apply SSG (render pages during build) or SSR (render on each request),
+- For mobile development I use **Flutter** and **React Native** for native and high performance applications, with UX-based layouts and easy usability.
+- Already with **Api Fake´s**, I perform data manipulation during development for a better rendering of data, without being static,
+- All with the use of **Typescript** for better typing of the code, focusing on software quality, responsive layouts and UI.
+- For documentation and design of the project I use **Figma** and the entire process of gathering requirements and features.
+- As for hosting data in Web development, the relational database **SQLServer** is used, while for mobile development, **Firebase**.
+- Desktop applications I use **Flutter** from version 2.0 or **C ++ (C #)**.
 
 <br>
 
