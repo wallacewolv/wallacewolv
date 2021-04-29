@@ -173,3 +173,21 @@ const aboutMe = {
 
 ```
 </details>
+
+<details>
+  <summary>📃 Projects</summary>
+
+<br>
+  
+_**Move it you**_ - Web application _**(React JS)**_ using pomodoro technique and exercises.
+<br>
+<p align="left"><img src="./move_it_you.png" height="90px"/></p>
+
+<br>
+
+_**DtMoney**_ - Web application _**(Next JS)**_ to control finances.
+<br>
+<p align="left"><img src="./dt_money.png" height="90px"/></p>
+
+<br>
+</details>
