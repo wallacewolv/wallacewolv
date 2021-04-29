@@ -171,7 +171,7 @@ const aboutMe = {
     'Play guitar',
     'Thinking games,'
   ],
-  description : 'Fascinated by cryptography and technology, I found in   programming a way to demonstrate my creativity.'
+  description : 'Fascinated by cryptography and technology, I found in programming a way to demonstrate my creativity.'
 };
 
 console.log(aboutMe);
