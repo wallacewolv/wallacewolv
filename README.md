@@ -54,14 +54,16 @@
 
 ## Experience
 
-🧑‍🏭 **freelance developer**\
+🧑‍🏭 **Freelance developer**\
 📆 2019 - 2021\
-📍 **freelance developer** - São Paulo/SP, Brazil
-
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+📍 **My House** - São Paulo/SP, Brazil\
+<br>
+<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>
+<br>
 
 🧑‍🏭 **CNC Programmer**\
 📆 2019 - 2021\
@@ -72,6 +74,8 @@
 - Design of parts
 - Responsible for the operation of 2 machines
 
+<br>
+
 🧑‍🏭 **CNC Programmer**\
 📆 2019 - 2019\
 📍 **Delave Industry** - Diadema/SP, Brazil
@@ -79,6 +83,8 @@
 - CNC lathe programmer, preparer and operator in the Fanuc and Mach controls (Galaxy 30 and Galaxy 15S)
 - Organize machining sequences using auto CAD
 - Control of measures and finishes
+
+<br>
 
 🧑‍🏭 **CNC Operator**\
 📆 2014 - 2018\
@@ -100,15 +106,6 @@
 - Polishing and engraving of serial and non-serial parts
 - CNC lathe programmer, preparer and operator
 - Organize machining sequences using auto CAD
- 
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-
-<p><img src="https://pa1.narvii.com/7544/017273540bb1e8a57bef5e1e86da6cf4d03c90e7r1-382-278_hq.gif" width="200px"></p>
 
 ## Skills
 
