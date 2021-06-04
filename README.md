@@ -37,7 +37,18 @@
 <!--   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> -->
 </p>
 
+<h3 align='center'>
+  👨‍💻 Tecnologies
+</h3>
+<p align='center'>
+  <img align="center" src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=blue" />
+  <img align="center" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=red" />
+  <img align="center" src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=orange" />
+</p>
 
+<br>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:wallace_wolv@hotmail.com'>wallace_wolv@hotmail.com</a>
@@ -58,11 +69,12 @@
 🧑💻 **Freelance Developer**\
 📆 2019 - 2021\
 📍 **My House** - São Paulo/SP, Brazil\
-<br>
-<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>  
+<img align="left" src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=blue" />
+<img align="left" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=red" />
+<img align="left" src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=orange" />
 <br>
 <br>
 
@@ -111,12 +123,12 @@
 
 ## Skills
 
-<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=blue" />
+<img align="left" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=red" />
+<img align="left" src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=orange" />
+<img align="left" src="https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase&logoColor=yellow" />
 
 <br>
 
