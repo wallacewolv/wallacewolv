@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align='center'>
-  A mobile and Front-end developer from São Paulo, Brazil.
+  A Front-end and Mobile developer from São Paulo, Brazil.
 </h4>
 
 
@@ -30,7 +30,7 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 My personal workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2006th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -65,16 +65,32 @@
 📍 **UNIP Paulista** - São Paulo, Brazil
 
 ## Experience
+  
+🧑💻🔥 **IT Developer JR - Channels PJ**\
+📆 2021 - until now\
+📍 **STI (Santander Technology and Innovation)** - São Paulo/SP, Brazil\
 
-🧑💻 **Freelance Developer**\
-📆 2019 - 2021\
+- Development of solutions for PJ channels
+- Code maintenance
+
+<img align="left" src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=red" />
+<br>
+<br>
+<br>
+
+🧑💻 **Freelance Developer - Personal Projects**\
+📆 2019 - until now\
 📍 **My House** - São Paulo/SP, Brazil\
-<br>  
+
+- Development of solutions with Flutter, React, Angular and Kotlin
+  
 <img align="left" src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter&logoColor=blue" />
 <img align="left" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=red" />
 <img align="left" src="https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=orange" />
+<br>
 <br>
 <br>
 
