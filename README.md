@@ -68,7 +68,7 @@
   
 🧑💻🔥 **IT Developer JR - Channels PJ**\
 📆 2021 - until now\
-📍 **STI (Santander Technology and Innovation)** - São Paulo/SP, Brazil\
+📍 **STI (Santander Technology and Innovation)** - São Paulo/SP, Brazil
 
 - Development of solutions for PJ channels
 - Code maintenance
@@ -81,7 +81,7 @@
 
 🧑💻 **Freelance Developer - Personal Projects**\
 📆 2019 - until now\
-📍 **My House** - São Paulo/SP, Brazil\
+📍 **My House** - São Paulo/SP, Brazil
 
 - Development of solutions with Flutter, React, Angular and Kotlin
   
