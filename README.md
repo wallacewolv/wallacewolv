@@ -175,13 +175,15 @@ const aboutMe = {
   name: 'Wallace Wesley',
   age: '27',
   education: 'Analysis and systems development at Unip',
-  job: 'Programmer || Mobile Developer || Web Developer',
-  company: '3R Industry Ltda',
+  job: 'IT Developer || Mobile Developer || Web Developer',
+  company: 'Santander Technology and Innovation',
   skills: [
     'Javascript',
+    'Angular',
     'React JS',
     'Node JS',
-    'Flutter'
+    'Flutter',
+    'Kotlin'
   ],
   hobbys: [
     'Games',
