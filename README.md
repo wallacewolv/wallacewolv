@@ -66,7 +66,7 @@
 
 ## Experience
   
-🧑💻🔥 **IT Developer JR - Channels PJ**\
+🧑💻🔥 **It Analisys + - Channels PJ**\
 📆 2021 - until now\
 📍 **STI (Santander Technology and Innovation)** - São Paulo/SP, Brazil
 
