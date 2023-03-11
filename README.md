@@ -65,10 +65,14 @@
 📍 **UNIP Paulista** - São Paulo, Brazil
 
 ## Experience
-  
+
 🧑💻🔥 **It Analisys + - Channels PJ**\
-📆 2021 - until now\
-📍 **STI (Santander Technology and Innovation)** - São Paulo/SP, Brazil
+📆 2022 - until now
+
+🧑💻🔥 **It Developer- Channels PJ**\
+📆 2021 - 2022
+
+📍 **F1rst (Santander Technology)** - São Paulo/SP, Brazil
 
 - Development of solutions for PJ channels
 - Code maintenance
