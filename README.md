@@ -66,10 +66,10 @@
 
 ## Experience
 
-🧑💻🔥 **It Analisys + - Channels PJ**\
+🧑💻🔥 **It Analisys + (Channels PJ)**\
 📆 2022 - until now
 
-🧑💻🔥 **It Developer- Channels PJ**\
+🧑💻🔥 **It Developer (Channels PJ)**\
 📆 2021 - 2022
 
 📍 **F1rst (Santander Technology)** - São Paulo/SP, Brazil
@@ -83,7 +83,7 @@
 <br>
 <br>
 
-🧑💻 **Freelance Developer - Personal Projects**\
+🧑💻 **Freelance Developer (Personal Projects)**\
 📆 2019 - until now\
 📍 **My House** - São Paulo/SP, Brazil
 
