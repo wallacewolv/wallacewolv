@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align='center'>
-  A Front-end and Mobile developer from São Paulo, Brazil.
+  A FullStack developer from São Paulo, Brazil.
 </h4>
 
 
