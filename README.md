@@ -66,8 +66,13 @@
 
 ## Experience
 
+🧑💻🔥 **Senior Software Developer (Tesouraria - NoFlow)**\
+📆 2024 - until now
+
+📍 **Santander** - São Paulo/SP, Brazil
+
 🧑💻🔥 **It Analisys + (Channels PJ)**\
-📆 2022 - until now
+📆 2022 - 2023
 
 🧑💻🔥 **It Developer (Channels PJ)**\
 📆 2021 - 2022
