@@ -66,10 +66,15 @@
 
 ## Experience
 
-🧑💻🔥 **Senior Software Developer (Tesouraria - NoFlow)**\
-📆 2024 - until now
+📍 **Mercado livre** - São Paulo/SP, Brazil
+
+🧑💻🔥 **Senior Software Enginner (Advertising)**\
+📆 2026 - until now
 
 📍 **Santander** - São Paulo/SP, Brazil
+
+🧑💻🔥 **Senior Software Developer (Tesouraria - NoFlow)**\
+📆 2024 - 2026
 
 🧑💻🔥 **It Analisys + (Channels PJ)**\
 📆 2022 - 2023
